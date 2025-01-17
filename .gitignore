@@ -1,2 +1,5 @@
 .venv
 .rasa
+*.csv
+chang_type.py
+data_gen.py
