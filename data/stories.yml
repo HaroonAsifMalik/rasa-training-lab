@@ -2,6 +2,11 @@ version: "3.1"
 
 stories:
 
+# - story: book appointment
+#   steps:
+#     - intent: book_appointment
+#     - action: utter_book_appointment
+
 - story: happy path
   steps:
   - intent: greet

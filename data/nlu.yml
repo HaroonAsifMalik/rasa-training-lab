@@ -17,6 +17,18 @@ nlu:
     - goodevening
     - good afternoon
 
+# - intent: book_appointment
+#   examples: |
+#     - I need to book a doctor appointment
+#     - Schedule a meeting with my lawyer
+#     - I want to book a table at a restaurant
+
+# - intent: cancel_appointment
+#   examples: |
+#     - I want to cancel my appointment
+#     - Can I reschedule my booking?
+#     - Cancel my meeting for today
+
 - intent: goodbye
   examples: |
     - cu
